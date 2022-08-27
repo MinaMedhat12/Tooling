@@ -4,6 +4,7 @@
 
 
 void printmyname(void);
+void printcollege(void);
 
 
 #endif

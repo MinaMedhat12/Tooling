@@ -5,3 +5,6 @@
 void printmyname(void){
     printf("MY name is Mina");
 }
+void printcollege(void){
+    printf("GIU");
+}
